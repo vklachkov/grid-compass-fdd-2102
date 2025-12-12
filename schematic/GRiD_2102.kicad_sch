@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1083b382-ea06-48a0-a955-980f230853d9")
+	(paper "A4")
+	(title_block
+		(company "JDat aka YL3AKC")
+	)
+	(lib_symbols)
+	(sheet
+		(at 92.71 29.21)
+		(size 26.67 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34f797e0-2a54-408d-9d91-03c14d161b7c")
+		(property "Sheetname" "CPU Board"
+			(at 92.71 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_board.kicad_sch"
+			(at 92.71 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GRiD_2102"
+				(path "/1083b382-ea06-48a0-a955-980f230853d9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.75 30.48)
+		(size 25.4 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "45df3616-52e1-4d38-8a90-e0208214856d")
+		(property "Sheetname" "Floppy Controller Board"
+			(at 158.75 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Floppy_Controller_Board.kicad_sch"
+			(at 158.75 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GRiD_2102"
+				(path "/1083b382-ea06-48a0-a955-980f230853d9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 29.21)
+		(size 27.94 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b93e22a-72d3-4d2e-b3b0-ce5d4804e3dd")
+		(property "Sheetname" "PSU"
+			(at 58.42 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PSU.kicad_sch"
+			(at 58.42 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GRiD_2102"
+				(path "/1083b382-ea06-48a0-a955-980f230853d9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 30.48)
+		(size 25.4 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e3e2e86-56e4-4597-94ad-4a8786913e38")
+		(property "Sheetname" "GPiB Board"
+			(at 125.73 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPiB_Board.kicad_sch"
+			(at 125.73 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GRiD_2102"
+				(path "/1083b382-ea06-48a0-a955-980f230853d9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.67 29.21)
+		(size 25.4 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5d4f3afd-cb62-4a92-a53c-12daf939fc77")
+		(property "Sheetname" "AC_Wiring"
+			(at 26.67 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AC_Wiring.kicad_sch"
+			(at 26.67 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GRiD_2102"
+				(path "/1083b382-ea06-48a0-a955-980f230853d9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 58.42)
+		(size 25.4 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8530c722-7d83-4b2e-8eb4-2b6a81770d68")
+		(property "Sheetname" "GPiB Connector and DIP SW"
+			(at 125.73 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPiB_connector.kicad_sch"
+			(at 125.73 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GRiD_2102"
+				(path "/1083b382-ea06-48a0-a955-980f230853d9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

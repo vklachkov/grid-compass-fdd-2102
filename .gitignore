@@ -1,0 +1,44 @@
+# MacOS
+.DS_Store
+
+# Ghydra project
+300237-02.gpr
+300237-02.rep
+
+# KiCad Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+\#auto_saved_files#
+
+# KiCad Netlist files (exported from Eeschema)
+*.net
+
+# KiCad Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# KiCad Exported BOM files
+*.xml
+*.csv
+
+# KiCad Archived Backups (KiCad 6.0)
+**/*-backups/*.zip
+
+# KiCad Local project settings
+*.kicad_prl
